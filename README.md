@@ -1,2 +1,2 @@
 # homebrew
-MiPal HomeBrew Tap
+This repository contains the MiPal HomeBrew Tap
